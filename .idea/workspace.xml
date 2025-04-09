@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9aea65a9-55f0-48ad-87d7-5cf6bf2f7f39" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/BackupCisco.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
