@@ -1,6 +1,7 @@
 from netmiko import ConnectHandler
 import datetime
 import paramiko
+import os
 
 # 1. Datos del router
 router = {
@@ -44,5 +45,10 @@ try:
     sftp.close()
     transport.close()
     print("[+] Backup subido correctamente al servidor SFTP.")
+
+# 7. Borrar archivo local
+    os.remove(nombre_archivo)
+    print(f"[+] Archivo local {nombre_archivo} eliminado.")
+
 except Exception as e:
     print(f"[!] Error al subir el archivo: {e}")
