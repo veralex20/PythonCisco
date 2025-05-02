@@ -14,7 +14,7 @@ net_connect = ConnectHandler(**R1)
 #net_connect.enable()  # Entra al modo enable
 
 # Enviar un comando
-output = net_connect.send_command('show run | incl ssh')
+output = net_connect.send_command('show run')
 print(output)
 
 # Cerrar conexión
