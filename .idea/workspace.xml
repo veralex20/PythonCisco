@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9aea65a9-55f0-48ad-87d7-5cf6bf2f7f39" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/RestaurarBackupCisco.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonCiscoNetmiko.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonCiscoNetmiko.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestaurarBackupCisco.py" beforeDir="false" afterPath="$PROJECT_DIR$/RestaurarBackupCisco.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,22 +27,22 @@
   &quot;associatedIndex&quot;: 8
 }</component>
   <component name="ProjectId" id="2vUiNbXNsAgcvfBE3sC4ZWlpD9S" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.BackupCisco.executor": "Run",
-    "Python.PythonCiscoNetmiko.executor": "Run",
-    "Python.RestaurarBackupCisco.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.BackupCisco.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PythonCiscoNetmiko.executor&quot;: &quot;Run&quot;,
+    &quot;Python.RestaurarBackupCisco.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Escritorio/BackupCisco1.py&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Python.PythonCiscoNetmiko">
+}</component>
+  <component name="RunManager" selected="Python.RestaurarBackupCisco">
     <configuration name="BackupCisco" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonCisco" />
       <option name="ENV_FILES" value="" />
@@ -112,16 +111,16 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.PythonCiscoNetmiko" />
         <item itemvalue="Python.RestaurarBackupCisco" />
         <item itemvalue="Python.BackupCisco" />
+        <item itemvalue="Python.PythonCiscoNetmiko" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-4f4e415b4190-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.26053.29" />
+        <option value="bundled-python-sdk-348a24fa61fa-5312c7369657-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.23774.444" />
       </set>
     </attachedChunks>
   </component>
